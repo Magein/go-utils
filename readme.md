@@ -3,7 +3,7 @@
 安装
 
 ```
-go get github.com/Magein/go-utils
+go get github.com/magein/go-utils
 ```
 
 ```
