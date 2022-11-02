@@ -2,10 +2,10 @@ package main
 
 import (
 	"fmt"
-	"github.com/magein/utils/mb"
-	oss "github.com/magein/utils/os"
-	times "github.com/magein/utils/time"
-	"github.com/magein/utils/tool"
+	"github.com/Magein/go-utils/mb"
+	oss "github.com/Magein/go-utils/os"
+	times "github.com/Magein/go-utils/time"
+	tools "github.com/Magein/go-utils/tool"
 )
 
 func main() {
