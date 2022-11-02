@@ -1,5 +1,11 @@
 ### go utils
 
+安装
+
+```
+go get github.com/Magein/go-utils
+```
+
 ```
 # 获取日期
 fmt.Println(times.Date("/"))
